@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syyedrehanhanfi
-- 👀 I’m interested in PHH
+- 👀 I’m interested in PHP
 - 🌱 I’m currently learning htm css java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
